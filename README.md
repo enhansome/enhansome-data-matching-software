@@ -216,7 +216,7 @@ code\]](https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware) ⭐ 5 
 | Downloads per month |                                                                                                                                                                                                                                           |
 | GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware.svg?style=social\&label=Star)](https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware) ⭐ 5 \| 🐛 2 \| 🌐 C# \| 📅 2017-09-28 |
 
-#### [Python Record Linkage Toolkit](https://github.com/J535D165/recordlinkage) ⭐ 1,060 | 🐛 64 | 🌐 Python | 📅 2024-02-21
+#### [Python Record Linkage Toolkit](https://github.com/J535D165/recordlinkage) ⭐ 1,059 | 🐛 64 | 🌐 Python | 📅 2024-02-21
 
 The Python Record Linkage Toolkit is a library to link records in or between
 data sources. The toolkit provides most of the tools needed for record linkage
@@ -229,7 +229,7 @@ small or medium sized files.
 | Language            | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/recordlinkage)                                                                                                                       |
 | Latest release      | [![PyPI](https://img.shields.io/pypi/v/recordlinkage.svg)](https://pypi.python.org/pypi/recordlinkage/)                                                                                              |
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/recordlinkage)                                                                                                                                    |
-| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/J535D165/recordlinkage.svg?style=social\&label=Star)](https://github.com/J535D165/recordlinkage) ⭐ 1,060 \| 🐛 64 \| 🌐 Python \| 📅 2024-02-21 |
+| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/J535D165/recordlinkage.svg?style=social\&label=Star)](https://github.com/J535D165/recordlinkage) ⭐ 1,059 \| 🐛 64 \| 🌐 Python \| 📅 2024-02-21 |
 
 #### [RecordLinkage (R)](https://cran.r-project.org/web/packages/RecordLinkage/index.html)
 
@@ -305,7 +305,7 @@ and deduplication.
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/rltk)                                                                                                                            |
 | GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/usc-isi-i2/rltk.svg?style=social\&label=Star)](https://github.com/usc-isi-i2/rltk) ⭐ 111 \| 🐛 7 \| 🌐 Python \| 📅 2023-08-14 |
 
-#### [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,339 | 🐛 223 | 🌐 Python | 📅 2026-08-13
+#### [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,340 | 🐛 224 | 🌐 Python | 📅 2026-08-13
 
 Splink is a Python package for probabilistic record linkage at scale.
 It supports multiple backends to execute linkage jobs, including DuckDB
@@ -314,7 +314,7 @@ of tens of millions of records with runtimes of less than an hour, including
 the clustering of results using connected components. It includes interactive tools
 to support the lifecycle of a linking project, from exploratory analysis through to
 diagnostics and quality assurance.[\[source
-code\]](https://github.com/moj-analytical-services/splink) ⭐ 2,339 | 🐛 223 | 🌐 Python | 📅 2026-08-13
+code\]](https://github.com/moj-analytical-services/splink) ⭐ 2,340 | 🐛 224 | 🌐 Python | 📅 2026-08-13
 
 |                     |                                                                                                                                                                                                                       |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -322,9 +322,9 @@ code\]](https://github.com/moj-analytical-services/splink) ⭐ 2,339 | 🐛 223 
 | Language            | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/splink)                                                                                                                                               |
 | Latest release      | [![PyPI](https://img.shields.io/pypi/v/splink.svg)](https://pypi.python.org/pypi/splink/)                                                                                                                             |
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/splink)                                                                                                                                                            |
-| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social\&label=Star)](https://github.com/moj-analytical-services/splink) ⭐ 2,339 \| 🐛 223 \| 🌐 Python \| 📅 2026-08-13 |
+| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social\&label=Star)](https://github.com/moj-analytical-services/splink) ⭐ 2,340 \| 🐛 224 \| 🌐 Python \| 📅 2026-08-13 |
 
-#### [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,234 | 🐛 104 | 🌐 Java | 📅 2026-08-14
+#### [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,234 | 🐛 106 | 🌐 Java | 📅 2026-08-16
 
 [Zingg](https://zingg.ai) is an open-source ML based tool for entity resolution with which analytics engineer and the data scientist can quickly integrate data silos and build unified views at scale. Zingg has the ability to connect to disparate data source, local and cloud file systems in any format, enterprise applications and relational, NoSQL and cloud databases and warehouses. It scales to large volume of data and you can define domain specific functions to improve matching.
 Not only Zingg support English as well as Chinese, Thai, Japanese, Hindi and other languages, it also has a very active [slack community](https://join.slack.com/t/zinggai/shared_invite/zt-w7zlcnol-vEuqU9m~Q56kLLUVxRgpOA) where people around the globe come and help and share their views.
@@ -359,11 +359,11 @@ issue or do a Pull Request. The same holds for missing or incomplete
 information.
 
 This project is initiated by the author of the [Python Record Linkage
-Toolkit](https://github.com/J535D165/recordlinkage) ⭐ 1,060 | 🐛 64 | 🌐 Python | 📅 2024-02-21 @J535D165. The aim is to
+Toolkit](https://github.com/J535D165/recordlinkage) ⭐ 1,059 | 🐛 64 | 🌐 Python | 📅 2024-02-21 @J535D165. The aim is to
 get a list and comparison of data matching software.
 
 This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
