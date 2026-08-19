@@ -1,129 +1,151 @@
 {
   "items": [
     {
-      "description": "The table below gives a dense overview of data matching software properties. The properties evaluated are Application Programming Interface (API), Graphical User Interface (GUI), Linking, Deduplication, Supervised Learning, Unsupervised Learning and Active Learning.\n:white_check_mark: Yes/Implemented :x: No/Not implemented :grey_question: Unknown",
-      "items": [],
-      "title": "Overview"
-    },
-    {
       "description": "This section describes data matching software. The software is alphabetically ordered.",
-      "items": [],
+      "items": [
+        {
+          "children": [],
+          "description": "AtyImo implements a mixture of deterministic and probabilistic routines for data linkage. Initially developed in 2013 to serve as a linkage tool supporting a joint Brazil–U.K. project aiming at building a large population-based cohort with data from more than 100 million participants and producing disease-specific data to facilitate diverse epidemiological research studies.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 181895964,
+            "language": "Python",
+            "last_commit": "2019-04-20T01:02:26Z",
+            "owner": "pierrepita",
+            "repo": "atyimo",
+            "stars": 13
+          },
+          "title": "AtyImo"
+        },
+        {
+          "children": [],
+          "description": "Dedupe is a python library for fuzzy matching, deduplication and entity resolution on structured data. The library makes use of active learning to match record pairs. Active learning is useful in cases without training data. Dedupe has a side-product for deduplicating CSV files, csvdedupe, through the command line. Dedupeio also offers commercial products for data matching.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 4087724,
+            "language": "Python",
+            "last_commit": "2025-07-29T00:18:20Z",
+            "owner": "dedupeio",
+            "repo": "dedupe",
+            "stars": 4503
+          },
+          "title": "Dedupe"
+        },
+        {
+          "children": [],
+          "description": "dirty-cat is an open-source Python package that facilitates machine-learning with with dirty data: robust to morphological variants, such as typos. Some of the currently supported features are: fuzzy joining tables on dirty numerical, string or mixed type columns, deduplicating and encoding dirty categorical variables for ML. This example illustrates why to use dirty-cat encoders rather than OneHotEncoder on dirty data and this one shows how to join multiple dirty tables for ML. The transfomers (TableVectorizer, FeatureAugmenter) are scikit-learn compatible, and easily introduced into ML pipelines.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 641292341,
+            "language": "Python",
+            "last_commit": "2025-03-12T15:31:56Z",
+            "owner": "dirty-cat",
+            "repo": "dirty_cat",
+            "stars": 20
+          },
+          "title": "dirty-cat"
+        },
+        {
+          "children": [],
+          "description": "PRIL (Point-of-contact Interactive Record Linkage) is a record linkage program with a GUI. PRIL can be used to link datasets about individuals. (Rentsch CT, Kabudula CW, Catlett J et al., 2017) [source code]",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 94883314,
+            "language": "C#",
+            "last_commit": "2017-09-28T16:45:09Z",
+            "owner": "LSHTM-ALPHAnetwork",
+            "repo": "PIRL_RecordLinkageSoftware",
+            "stars": 5
+          },
+          "title": "PRIL"
+        },
+        {
+          "children": [],
+          "description": "The Python Record Linkage Toolkit is a library to link records in or between data sources. The toolkit provides most of the tools needed for record linkage and deduplication. The package is developed for research and the linking of small or medium sized files.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 44471657,
+            "language": "Python",
+            "last_commit": "2024-02-21T18:15:38Z",
+            "owner": "J535D165",
+            "repo": "recordlinkage",
+            "stars": 1059
+          },
+          "title": "Python Record Linkage Toolkit"
+        },
+        {
+          "children": [],
+          "description": "Package written in R that provides functions for linking data sets. The framework offers the option to compute the weigths of the Fellegi-Sunter model. It doesn't implement an undersupervised algorithms to predict the cutoff. The package is published on CRAN. Formerly https://github.com/djvanderlaan/reclin.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 295448880,
+            "language": "R",
+            "last_commit": "2026-01-08T14:38:31Z",
+            "owner": "djvanderlaan",
+            "repo": "reclin2",
+            "stars": 52
+          },
+          "title": "Reclin2"
+        },
+        {
+          "children": [],
+          "description": "The Record Linkage ToolKit (RLTK) is a general-purpose open-source record linkage package. The toolkit provides a full pipeline needed for record linkage and deduplication.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 82112718,
+            "language": "Python",
+            "last_commit": "2023-08-14T21:48:59Z",
+            "owner": "usc-isi-i2",
+            "repo": "rltk",
+            "stars": 111
+          },
+          "title": "RLTK"
+        },
+        {
+          "children": [],
+          "description": "Splink is a Python package for probabilistic record linkage at scale. It supports multiple backends to execute linkage jobs, including DuckDB Apache Spark and AWS Athena. It is able to perform linking and deduplication of very large datasets of tens of millions of records with runtimes of less than an hour, including the clustering of results using connected components. It includes interactive tools to support the lifecycle of a linking project, from exploratory analysis through to diagnostics and quality assurance.[source code]",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 223420284,
+            "language": "Python",
+            "last_commit": "2026-08-13T15:02:26Z",
+            "owner": "moj-analytical-services",
+            "repo": "splink",
+            "stars": 2345
+          },
+          "title": "Splink"
+        },
+        {
+          "children": [],
+          "description": "Zingg is an open-source ML based tool for entity resolution with which analytics engineer and the data scientist can quickly integrate data silos and build unified views at scale. Zingg has the ability to connect to disparate data source, local and cloud file systems in any format, enterprise applications and relational, NoSQL and cloud databases and warehouses. It scales to large volume of data and you can define domain specific functions to improve matching. Not only Zingg support English as well as Chinese, Thai, Japanese, Hindi and other languages, it also has a very active slack community where people around the globe come and help and share their views.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 399775320,
+            "language": "Java",
+            "last_commit": "2026-08-19T09:54:15Z",
+            "owner": "zinggAI",
+            "repo": "zingg",
+            "stars": 1234
+          },
+          "title": "Zingg"
+        }
+      ],
       "title": "Software"
-    },
-    {
-      "description": "AtyImo implements a mixture of deterministic and probabilistic routines for data linkage. Initially developed in 2013 to serve as a linkage tool supporting a joint Brazil–U.K. project aiming at building a large population-based cohort with data from more than 100 million participants and producing disease-specific data to facilitate diverse epidemiological research studies.",
-      "items": [],
-      "title": "AtyImo"
-    },
-    {
-      "description": "Dedupe is a python library for fuzzy matching, deduplication and entity resolution on structured data. The library makes use of active learning to match record pairs. Active learning is useful in cases without training data. Dedupe has a side-product for deduplicating CSV files, csvdedupe, through the command line. Dedupeio also offers commercial products for data matching.",
-      "items": [],
-      "title": "Dedupe"
-    },
-    {
-      "description": "dirty-cat is an open-source Python package that facilitates machine-learning with with dirty data: robust to morphological variants, such as typos. Some of the currently supported features are: fuzzy joining tables on dirty numerical, string or mixed type columns, deduplicating and encoding dirty categorical variables for ML. This example illustrates why to use dirty-cat encoders rather than OneHotEncoder on dirty data and this one shows how to join multiple dirty tables for ML. The transfomers (TableVectorizer, FeatureAugmenter) are scikit-learn compatible, and easily introduced into ML pipelines.",
-      "items": [],
-      "title": "dirty-cat"
-    },
-    {
-      "description": "Implements a Fellegi-Sunter probabilistic record linkage model that allows for missing data and the inclusion of auxiliary information. This includes functionalities to conduct a merge of two datasets under the Fellegi-Sunter model using the Expectation-Maximization algorithm. fastLink is a programming API written in R. (Enamorado, Fifield & Imai, 2017) [source code]",
-      "items": [],
-      "title": "fastLink"
-    },
-    {
-      "description": "Febrl (Freely Extensible Biomedical Record Linkage) is a training tool suitable for users to learn and experiment with record linkage techniques, as well as for practitioners to conduct linkages with data sets containing up to several hundred thousand records. Febrl is a data matching tool with a large number of algorithms implemented and offers a Python programming interface as well as simple GUI. Febrl doesn't offer unsupervised and active learning algorithms. The software is no longer actively maintained. (Christen, 2008) [source code]",
-      "items": [],
-      "title": "FEBRL"
-    },
-    {
-      "description": "FRIL (Fine-grained Records Integration and Linkage tool) is free tool that enables record linkage through a GUI. The tool implements automatic weights estimation through the EM-algorithm and offers serveral techniques to make record pairs. FRIL was developed by the Emory University and is not longer maintained. [source code]",
-      "items": [],
-      "title": "FRIL"
-    },
-    {
-      "description": "A Python package that allows the user to fuzzy match two pandas dataframes based on one or more fields in common. The functionality is limited at the moment. [source code]",
-      "items": [],
-      "title": "FuzzyMatcher"
-    },
-    {
-      "description": "A Python package designed to link two datasets. The primary use case was for linking demographics in the Household -> Person hierarchical structure, however it can be used to link generic datasets as well by skipping household linking tasks. It allows for probabilistic and deterministic record linkage. [source_code]",
-      "items": [],
-      "title": "hlink"
-    },
-    {
-      "description": "Java gEneric DAta Integration (JedAI) Toolkit is a Entity Resolution Tool developed by a group of univeristies. JedAI offers a Graphical User Interface. [source code]",
-      "items": [],
-      "title": "JedAI"
-    },
-    {
-      "description": "PRIL (Point-of-contact Interactive Record Linkage) is a record linkage program with a GUI. PRIL can be used to link datasets about individuals. (Rentsch CT, Kabudula CW, Catlett J et al., 2017) [source code]",
-      "items": [],
-      "title": "PRIL"
-    },
-    {
-      "description": "The Python Record Linkage Toolkit is a library to link records in or between data sources. The toolkit provides most of the tools needed for record linkage and deduplication. The package is developed for research and the linking of small or medium sized files.",
-      "items": [],
-      "title": "Python Record Linkage Toolkit"
-    },
-    {
-      "description": "Package written in R that provides functions for linking and de-duplicating data sets. Both supervised and unsupervised classification algorithms are available. Record pairs can be compared with a limited set of algorithms. The package is published on CRAN.",
-      "items": [],
-      "title": "RecordLinkage (R)"
-    },
-    {
-      "description": "Package written in R that provides functions for linking data sets. The framework offers the option to compute the weigths of the Fellegi-Sunter model. It doesn't implement an undersupervised algorithms to predict the cutoff. The package is published on CRAN. Formerly https://github.com/djvanderlaan/reclin.",
-      "items": [],
-      "title": "Reclin2"
-    },
-    {
-      "description": "RELAIS (REcord Linkage At IStat) is a toolkit providing a set of techniques for dealing with record linkage projects. IStat is the main producer of official statistics in Italy.",
-      "items": [],
-      "title": "RELAIS"
-    },
-    {
-      "description": "ReMaDDer is unsupervised free fuzzy data matching software with a GUI. ReMaDDer is capable to perform fully automatic fuzzy record matching without human expert intervention, while attaining accuracy of human clerical review. NOTE: The software is free, but not open source and requires an internet connection to work.",
-      "items": [],
-      "title": "ReMaDDer"
-    },
-    {
-      "description": "The Record Linkage ToolKit (RLTK) is a general-purpose open-source record linkage package. The toolkit provides a full pipeline needed for record linkage and deduplication.",
-      "items": [],
-      "title": "RLTK"
-    },
-    {
-      "description": "Splink is a Python package for probabilistic record linkage at scale. It supports multiple backends to execute linkage jobs, including DuckDB Apache Spark and AWS Athena. It is able to perform linking and deduplication of very large datasets of tens of millions of records with runtimes of less than an hour, including the clustering of results using connected components. It includes interactive tools to support the lifecycle of a linking project, from exploratory analysis through to diagnostics and quality assurance.[source code]",
-      "items": [],
-      "title": "Splink"
-    },
-    {
-      "description": "Zingg is an open-source ML based tool for entity resolution with which analytics engineer and the data scientist can quickly integrate data silos and build unified views at scale. Zingg has the ability to connect to disparate data source, local and cloud file systems in any format, enterprise applications and relational, NoSQL and cloud databases and warehouses. It scales to large volume of data and you can define domain specific functions to improve matching. Not only Zingg support English as well as Chinese, Thai, Japanese, Hindi and other languages, it also has a very active slack community where people around the globe come and help and share their views.",
-      "items": [],
-      "title": "Zingg"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Outdated/ no longer available"
-    },
-    {
-      "description": "A record linkage tool for use in matching a very large file against a moderate size file developed by the USA Census Bureau. There are several papers available about this program (BigMatch, 2007)",
-      "items": [],
-      "title": "BigMatch (by USA census)"
-    },
-    {
-      "description": "The Link King’s graphical user interface (GUI) makes record linkage and unduplication easy for beginning and advanced users. The software requires a SAS license.",
-      "items": [],
-      "title": "The Link King"
-    },
-    {
-      "description": "Do you know an open source and/or free data matching tool? Please open an issue or do a Pull Request. The same holds for missing or incomplete information.\nThis project is initiated by the author of the Python Record Linkage Toolkit @J535D165. The aim is to get a list and comparison of data matching software.\nThis list is licensed under CC-BY-SA 3.0.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:13:47.823Z",
+    "last_updated": "2026-08-19T12:22:07.338Z",
     "original_repository": "J535D165/data-matching-software",
+    "original_repository_id": 115945560,
     "original_repository_sha": "f3e7176ecfc2802c7250425d0a606855287c4ce6",
     "enhanced_repository": "enhansome/enhansome-data-matching-software",
     "enhanced_repository_description": null,

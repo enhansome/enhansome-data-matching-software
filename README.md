@@ -76,7 +76,7 @@ diverse epidemiological research studies.
 | Downloads per month |                                                                                                                                                                                        |
 | GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/pierrepita/atyimo.svg?style=social\&label=Star)](https://github.com/pierrepita/atyimo) ⭐ 13 \| 🐛 0 \| 🌐 Python \| 📅 2019-04-20 |
 
-#### [Dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,502 | 🐛 90 | 🌐 Python | 📅 2025-07-29
+#### [Dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,503 | 🐛 90 | 🌐 Python | 📅 2025-07-29
 
 Dedupe is a python library for fuzzy matching, deduplication and entity
 resolution on structured data. The library makes use of active learning to
@@ -91,7 +91,7 @@ Dedupeio also offers commercial products for data matching.
 | Language            | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/dedupe)                                                                                                                |
 | Latest release      | [![PyPI](https://img.shields.io/pypi/v/dedupe.svg)](https://pypi.python.org/pypi/dedupe/)                                                                                              |
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/dedupe)                                                                                                                             |
-| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/dedupeio/dedupe.svg?style=social\&label=Star)](https://github.com/dedupeio/dedupe) ⭐ 4,502 \| 🐛 90 \| 🌐 Python \| 📅 2025-07-29 |
+| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/dedupeio/dedupe.svg?style=social\&label=Star)](https://github.com/dedupeio/dedupe) ⭐ 4,503 \| 🐛 90 \| 🌐 Python \| 📅 2025-07-29 |
 
 #### [dirty-cat](https://github.com/dirty-cat/dirty_cat) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2025-03-12
 
