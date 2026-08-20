@@ -29,7 +29,7 @@
             "last_commit": "2025-07-29T00:18:20Z",
             "owner": "dedupeio",
             "repo": "dedupe",
-            "stars": 4503
+            "stars": 4504
           },
           "title": "Dedupe"
         },
@@ -116,10 +116,10 @@
             "archived": false,
             "id": 223420284,
             "language": "Python",
-            "last_commit": "2026-08-13T15:02:26Z",
+            "last_commit": "2026-08-19T14:36:45Z",
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2345
+            "stars": 2346
           },
           "title": "Splink"
         },
@@ -131,7 +131,7 @@
             "archived": false,
             "id": 399775320,
             "language": "Java",
-            "last_commit": "2026-08-19T09:54:15Z",
+            "last_commit": "2026-08-20T04:18:33Z",
             "owner": "zinggAI",
             "repo": "zingg",
             "stars": 1234
@@ -143,7 +143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:22:07.338Z",
+    "last_updated": "2026-08-20T05:15:20.769Z",
     "original_repository": "J535D165/data-matching-software",
     "original_repository_id": 115945560,
     "original_repository_sha": "f3e7176ecfc2802c7250425d0a606855287c4ce6",
