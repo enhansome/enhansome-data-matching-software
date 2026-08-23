@@ -119,7 +119,7 @@
             "last_commit": "2026-08-21T14:33:55Z",
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2353
+            "stars": 2354
           },
           "title": "Splink"
         },
@@ -131,7 +131,7 @@
             "archived": false,
             "id": 399775320,
             "language": "Java",
-            "last_commit": "2026-08-21T03:54:40Z",
+            "last_commit": "2026-08-22T07:29:51Z",
             "owner": "zinggAI",
             "repo": "zingg",
             "stars": 1236
@@ -143,7 +143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:05:27.986Z",
+    "last_updated": "2026-08-23T05:12:40.478Z",
     "original_repository": "J535D165/data-matching-software",
     "original_repository_id": 115945560,
     "original_repository_sha": "f3e7176ecfc2802c7250425d0a606855287c4ce6",
