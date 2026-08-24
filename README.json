@@ -4,7 +4,23 @@
       "description": "This section describes data matching software. The software is alphabetically ordered.",
       "items": [
         {
-          "children": [],
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub stars",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181895964,
+                "language": "Python",
+                "last_commit": "2019-04-20T01:02:26Z",
+                "owner": "pierrepita",
+                "repo": "atyimo",
+                "stars": 13
+              }
+            }
+          ],
           "description": "AtyImo implements a mixture of deterministic and probabilistic routines for data linkage. Initially developed in 2013 to serve as a linkage tool supporting a joint Brazil–U.K. project aiming at building a large population-based cohort with data from more than 100 million participants and producing disease-specific data to facilitate diverse epidemiological research studies.",
           "node_type": "item",
           "repo_info": {
@@ -19,7 +35,23 @@
           "title": "AtyImo"
         },
         {
-          "children": [],
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub stars",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4087724,
+                "language": "Python",
+                "last_commit": "2025-07-29T00:18:20Z",
+                "owner": "dedupeio",
+                "repo": "dedupe",
+                "stars": 4505
+              }
+            }
+          ],
           "description": "Dedupe is a python library for fuzzy matching, deduplication and entity resolution on structured data. The library makes use of active learning to match record pairs. Active learning is useful in cases without training data. Dedupe has a side-product for deduplicating CSV files, csvdedupe, through the command line. Dedupeio also offers commercial products for data matching.",
           "node_type": "item",
           "repo_info": {
@@ -49,7 +81,156 @@
           "title": "dirty-cat"
         },
         {
-          "children": [],
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Implements a Fellegi-Sunter probabilistic record linkage model that allows for missing data and the inclusion of auxiliary information. This includes functionalities to conduct a merge of two datasets under the Fellegi-Sunter model using the Expectation-Maximization algorithm. fastLink is a programming API written in R. (Enamorado, Fifield & Imai, 2017",
+              "description": ") [source code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84469064,
+                "language": "R",
+                "last_commit": "2026-02-28T16:31:09Z",
+                "owner": "kosukeimai",
+                "repo": "fastLink",
+                "stars": 293
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub stars",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84469064,
+                "language": "R",
+                "last_commit": "2026-02-28T16:31:09Z",
+                "owner": "kosukeimai",
+                "repo": "fastLink",
+                "stars": 293
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "fastLink"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A Python package that allows the user to fuzzy match two pandas dataframes based on one or more fields in common. The functionality is limited at the moment. [source code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111990189,
+                "language": "Python",
+                "last_commit": "2022-08-09T18:27:44Z",
+                "owner": "RobinL",
+                "repo": "fuzzymatcher",
+                "stars": 285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub stars",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111990189,
+                "language": "Python",
+                "last_commit": "2022-08-09T18:27:44Z",
+                "owner": "RobinL",
+                "repo": "fuzzymatcher",
+                "stars": 285
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "FuzzyMatcher"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub stars",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 486261782,
+                "language": "Python",
+                "last_commit": "2026-01-20T16:00:20Z",
+                "owner": "ipums",
+                "repo": "hlink",
+                "stars": 15
+              }
+            }
+          ],
+          "description": "A Python package designed to link two datasets. The primary use case was for linking demographics in the Household -> Person hierarchical structure, however it can be used to link generic datasets as well by skipping household linking tasks. It allows for probabilistic and deterministic record linkage. [source_code]",
+          "node_type": "group",
+          "title": "hlink"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Java gEneric DAta Integration (JedAI) Toolkit is a Entity Resolution Tool developed by a group of univeristies. JedAI offers a Graphical User Interface. [source code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 54029243,
+                "language": "Java",
+                "last_commit": "2025-07-12T04:42:49Z",
+                "owner": "scify",
+                "repo": "JedAIToolkit",
+                "stars": 225
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GitHub stars",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 54029243,
+                "language": "Java",
+                "last_commit": "2025-07-12T04:42:49Z",
+                "owner": "scify",
+                "repo": "JedAIToolkit",
+                "stars": 225
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "JedAI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub stars",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94883314,
+                "language": "C#",
+                "last_commit": "2017-09-28T16:45:09Z",
+                "owner": "LSHTM-ALPHAnetwork",
+                "repo": "PIRL_RecordLinkageSoftware",
+                "stars": 5
+              }
+            }
+          ],
           "description": "PRIL (Point-of-contact Interactive Record Linkage) is a record linkage program with a GUI. PRIL can be used to link datasets about individuals. (Rentsch CT, Kabudula CW, Catlett J et al., 2017) [source code]",
           "node_type": "item",
           "repo_info": {
@@ -64,7 +245,23 @@
           "title": "PRIL"
         },
         {
-          "children": [],
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub stars",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44471657,
+                "language": "Python",
+                "last_commit": "2024-02-21T18:15:38Z",
+                "owner": "J535D165",
+                "repo": "recordlinkage",
+                "stars": 1059
+              }
+            }
+          ],
           "description": "The Python Record Linkage Toolkit is a library to link records in or between data sources. The toolkit provides most of the tools needed for record linkage and deduplication. The package is developed for research and the linking of small or medium sized files.",
           "node_type": "item",
           "repo_info": {
@@ -79,7 +276,23 @@
           "title": "Python Record Linkage Toolkit"
         },
         {
-          "children": [],
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub stars",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 295448880,
+                "language": "R",
+                "last_commit": "2026-01-08T14:38:31Z",
+                "owner": "djvanderlaan",
+                "repo": "reclin2",
+                "stars": 52
+              }
+            }
+          ],
           "description": "Package written in R that provides functions for linking data sets. The framework offers the option to compute the weigths of the Fellegi-Sunter model. It doesn't implement an undersupervised algorithms to predict the cutoff. The package is published on CRAN. Formerly https://github.com/djvanderlaan/reclin.",
           "node_type": "item",
           "repo_info": {
@@ -94,7 +307,23 @@
           "title": "Reclin2"
         },
         {
-          "children": [],
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub stars",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82112718,
+                "language": "Python",
+                "last_commit": "2023-08-14T21:48:59Z",
+                "owner": "usc-isi-i2",
+                "repo": "rltk",
+                "stars": 111
+              }
+            }
+          ],
           "description": "The Record Linkage ToolKit (RLTK) is a general-purpose open-source record linkage package. The toolkit provides a full pipeline needed for record linkage and deduplication.",
           "node_type": "item",
           "repo_info": {
@@ -109,17 +338,33 @@
           "title": "RLTK"
         },
         {
-          "children": [],
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub stars",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 223420284,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:34:55Z",
+                "owner": "moj-analytical-services",
+                "repo": "splink",
+                "stars": 2356
+              }
+            }
+          ],
           "description": "Splink is a Python package for probabilistic record linkage at scale. It supports multiple backends to execute linkage jobs, including DuckDB Apache Spark and AWS Athena. It is able to perform linking and deduplication of very large datasets of tens of millions of records with runtimes of less than an hour, including the clustering of results using connected components. It includes interactive tools to support the lifecycle of a linking project, from exploratory analysis through to diagnostics and quality assurance.[source code]",
           "node_type": "item",
           "repo_info": {
             "archived": false,
             "id": 223420284,
             "language": "Python",
-            "last_commit": "2026-08-21T14:33:55Z",
+            "last_commit": "2026-08-24T13:34:55Z",
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2355
+            "stars": 2356
           },
           "title": "Splink"
         },
@@ -143,7 +388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:24:51.107Z",
+    "last_updated": "2026-08-24T14:24:41.873Z",
     "original_repository": "J535D165/data-matching-software",
     "original_repository_id": 115945560,
     "original_repository_sha": "f3e7176ecfc2802c7250425d0a606855287c4ce6",
