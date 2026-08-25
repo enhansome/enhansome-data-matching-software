@@ -348,10 +348,10 @@
                 "archived": false,
                 "id": 223420284,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:34:55Z",
+                "last_commit": "2026-08-24T14:36:14Z",
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2356
+                "stars": 2359
               }
             }
           ],
@@ -361,10 +361,10 @@
             "archived": false,
             "id": 223420284,
             "language": "Python",
-            "last_commit": "2026-08-24T13:34:55Z",
+            "last_commit": "2026-08-24T14:36:14Z",
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2356
+            "stars": 2359
           },
           "title": "Splink"
         },
@@ -388,7 +388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:24:41.873Z",
+    "last_updated": "2026-08-25T05:17:16.722Z",
     "original_repository": "J535D165/data-matching-software",
     "original_repository_id": 115945560,
     "original_repository_sha": "f3e7176ecfc2802c7250425d0a606855287c4ce6",
