@@ -376,7 +376,7 @@
             "archived": false,
             "id": 399775320,
             "language": "Java",
-            "last_commit": "2026-08-23T18:12:34Z",
+            "last_commit": "2026-08-25T06:15:43Z",
             "owner": "zinggAI",
             "repo": "zingg",
             "stars": 1236
@@ -388,7 +388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:17:16.722Z",
+    "last_updated": "2026-08-25T06:18:31.655Z",
     "original_repository": "J535D165/data-matching-software",
     "original_repository_id": 115945560,
     "original_repository_sha": "f3e7176ecfc2802c7250425d0a606855287c4ce6",
