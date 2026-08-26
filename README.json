@@ -48,7 +48,7 @@
                 "last_commit": "2025-07-29T00:18:20Z",
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4505
+                "stars": 4506
               }
             }
           ],
@@ -61,7 +61,7 @@
             "last_commit": "2025-07-29T00:18:20Z",
             "owner": "dedupeio",
             "repo": "dedupe",
-            "stars": 4505
+            "stars": 4506
           },
           "title": "Dedupe"
         },
@@ -258,7 +258,7 @@
                 "last_commit": "2024-02-21T18:15:38Z",
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1059
+                "stars": 1060
               }
             }
           ],
@@ -271,7 +271,7 @@
             "last_commit": "2024-02-21T18:15:38Z",
             "owner": "J535D165",
             "repo": "recordlinkage",
-            "stars": 1059
+            "stars": 1060
           },
           "title": "Python Record Linkage Toolkit"
         },
@@ -348,10 +348,10 @@
                 "archived": false,
                 "id": 223420284,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:36:14Z",
+                "last_commit": "2026-08-25T16:39:29Z",
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2359
+                "stars": 2364
               }
             }
           ],
@@ -361,10 +361,10 @@
             "archived": false,
             "id": 223420284,
             "language": "Python",
-            "last_commit": "2026-08-24T14:36:14Z",
+            "last_commit": "2026-08-25T16:39:29Z",
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2359
+            "stars": 2364
           },
           "title": "Splink"
         },
@@ -376,7 +376,7 @@
             "archived": false,
             "id": 399775320,
             "language": "Java",
-            "last_commit": "2026-08-25T06:15:43Z",
+            "last_commit": "2026-08-26T04:32:33Z",
             "owner": "zinggAI",
             "repo": "zingg",
             "stars": 1236
@@ -388,7 +388,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:18:31.655Z",
+    "last_updated": "2026-08-26T05:16:44.705Z",
     "original_repository": "J535D165/data-matching-software",
     "original_repository_id": 115945560,
     "original_repository_sha": "f3e7176ecfc2802c7250425d0a606855287c4ce6",
