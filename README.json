@@ -48,7 +48,7 @@
                 "last_commit": "2025-07-29T00:18:20Z",
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4506
+                "stars": 4508
               }
             }
           ],
@@ -61,7 +61,7 @@
             "last_commit": "2025-07-29T00:18:20Z",
             "owner": "dedupeio",
             "repo": "dedupe",
-            "stars": 4506
+            "stars": 4508
           },
           "title": "Dedupe"
         },
@@ -348,10 +348,10 @@
                 "archived": false,
                 "id": 223420284,
                 "language": "Python",
-                "last_commit": "2026-08-25T16:39:29Z",
+                "last_commit": "2026-08-26T21:27:25Z",
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2364
+                "stars": 2365
               }
             }
           ],
@@ -361,10 +361,10 @@
             "archived": false,
             "id": 223420284,
             "language": "Python",
-            "last_commit": "2026-08-25T16:39:29Z",
+            "last_commit": "2026-08-26T21:27:25Z",
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2364
+            "stars": 2365
           },
           "title": "Splink"
         },
@@ -379,7 +379,7 @@
             "last_commit": "2026-08-26T04:32:33Z",
             "owner": "zinggAI",
             "repo": "zingg",
-            "stars": 1236
+            "stars": 1238
           },
           "title": "Zingg"
         }
@@ -388,9 +388,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:16:44.705Z",
-    "original_repository": "J535D165/data-matching-software",
-    "original_repository_id": 115945560,
+    "last_updated": "2026-08-27T11:35:30.910Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 115945560,
+      "language": null,
+      "last_commit": "2024-02-21T15:30:56Z",
+      "owner": "J535D165",
+      "repo": "data-matching-software",
+      "stars": 406
+    },
     "original_repository_sha": "f3e7176ecfc2802c7250425d0a606855287c4ce6",
     "enhanced_repository": "enhansome/enhansome-data-matching-software",
     "enhanced_repository_description": null,
