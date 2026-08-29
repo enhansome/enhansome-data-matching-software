@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 181895964,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-04-20T01:02:26Z",
+                "open_issues": 0,
                 "owner": "pierrepita",
                 "repo": "atyimo",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
             }
@@ -26,12 +31,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 181895964,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-04-20T01:02:26Z",
+            "open_issues": 0,
             "owner": "pierrepita",
             "repo": "atyimo",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "title": "AtyImo",
           "first_seen": "2026-08-28T16:56:03.738Z"
@@ -45,12 +55,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":id: A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.",
+                "homepage": "https://docs.dedupe.io",
                 "id": 4087724,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-29T00:18:20Z",
+                "open_issues": 91,
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4509
+                "stars": 4509,
+                "topics": [
+                  "clustering",
+                  "datamade",
+                  "de-duplicating",
+                  "dedupe",
+                  "dedupe-library",
+                  "entity-resolution",
+                  "python",
+                  "python-library",
+                  "record-linkage"
+                ]
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
             }
@@ -59,12 +84,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": ":id: A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.",
+            "homepage": "https://docs.dedupe.io",
             "id": 4087724,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-29T00:18:20Z",
+            "open_issues": 91,
             "owner": "dedupeio",
             "repo": "dedupe",
-            "stars": 4509
+            "stars": 4509,
+            "topics": [
+              "clustering",
+              "datamade",
+              "de-duplicating",
+              "dedupe",
+              "dedupe-library",
+              "entity-resolution",
+              "python",
+              "python-library",
+              "record-linkage"
+            ]
           },
           "title": "Dedupe",
           "first_seen": "2026-08-28T16:56:03.738Z"
@@ -75,12 +115,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Machine learning on dirty tabular data (legacy clone of skrub)",
+            "homepage": "https://dirty-cat.github.io/",
             "id": 641292341,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-03-12T15:31:56Z",
+            "open_issues": 0,
             "owner": "dirty-cat",
             "repo": "dirty_cat",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "title": "dirty-cat",
           "first_seen": "2026-08-28T16:56:03.738Z"
@@ -94,12 +139,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R package fastLink: Fast Probabilistic Record Linkage",
+                "homepage": null,
                 "id": 84469064,
                 "language": "R",
+                "license": null,
                 "last_commit": "2026-02-28T16:31:09Z",
+                "open_issues": 36,
                 "owner": "kosukeimai",
                 "repo": "fastLink",
-                "stars": 293
+                "stars": 293,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
             },
@@ -110,12 +160,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R package fastLink: Fast Probabilistic Record Linkage",
+                "homepage": null,
                 "id": 84469064,
                 "language": "R",
+                "license": null,
                 "last_commit": "2026-02-28T16:31:09Z",
+                "open_issues": 36,
                 "owner": "kosukeimai",
                 "repo": "fastLink",
-                "stars": 293
+                "stars": 293,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
             }
@@ -133,12 +188,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Record linking package that fuzzy matches two Python pandas dataframes using sqlite3 fts4",
+                "homepage": null,
                 "id": 111990189,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-08-09T18:27:44Z",
+                "open_issues": 22,
                 "owner": "RobinL",
                 "repo": "fuzzymatcher",
-                "stars": 285
+                "stars": 285,
+                "topics": [
+                  "data-matching",
+                  "fuzzy-matching",
+                  "probabalistic-matching",
+                  "pypi"
+                ]
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
             },
@@ -149,12 +214,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Record linking package that fuzzy matches two Python pandas dataframes using sqlite3 fts4",
+                "homepage": null,
                 "id": 111990189,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-08-09T18:27:44Z",
+                "open_issues": 22,
                 "owner": "RobinL",
                 "repo": "fuzzymatcher",
-                "stars": 285
+                "stars": 285,
+                "topics": [
+                  "data-matching",
+                  "fuzzy-matching",
+                  "probabalistic-matching",
+                  "pypi"
+                ]
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
             }
@@ -172,12 +247,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hierarchical record linkage at scale",
+                "homepage": null,
                 "id": 486261782,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2026-01-20T16:00:20Z",
+                "open_issues": 18,
                 "owner": "ipums",
                 "repo": "hlink",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "machine-learning",
+                  "pyspark",
+                  "python",
+                  "record-linkage"
+                ]
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
             }
@@ -195,12 +280,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An open source, high scalability toolkit in Java for Entity Resolution.",
+                "homepage": "http://jedai.scify.org",
                 "id": 54029243,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-12T04:42:49Z",
+                "open_issues": 15,
                 "owner": "scify",
                 "repo": "JedAIToolkit",
-                "stars": 225
+                "stars": 225,
+                "topics": [
+                  "blocking",
+                  "entity-matching",
+                  "entity-resolution",
+                  "scalability"
+                ]
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
             },
@@ -211,12 +306,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An open source, high scalability toolkit in Java for Entity Resolution.",
+                "homepage": "http://jedai.scify.org",
                 "id": 54029243,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-12T04:42:49Z",
+                "open_issues": 15,
                 "owner": "scify",
                 "repo": "JedAIToolkit",
-                "stars": 225
+                "stars": 225,
+                "topics": [
+                  "blocking",
+                  "entity-matching",
+                  "entity-resolution",
+                  "scalability"
+                ]
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
             }
@@ -234,12 +339,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Point-of-contact Interactive Record Linkage (PIRL) software created and used by the ALPHA Network managed by the London School of Hygiene & Tropical Medicine (LSHTM) (http://alpha.lshtm.ac.uk/)",
+                "homepage": null,
                 "id": 94883314,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2017-09-28T16:45:09Z",
+                "open_issues": 2,
                 "owner": "LSHTM-ALPHAnetwork",
                 "repo": "PIRL_RecordLinkageSoftware",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
             }
@@ -248,12 +358,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Point-of-contact Interactive Record Linkage (PIRL) software created and used by the ALPHA Network managed by the London School of Hygiene & Tropical Medicine (LSHTM) (http://alpha.lshtm.ac.uk/)",
+            "homepage": null,
             "id": 94883314,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2017-09-28T16:45:09Z",
+            "open_issues": 2,
             "owner": "LSHTM-ALPHAnetwork",
             "repo": "PIRL_RecordLinkageSoftware",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "title": "PRIL",
           "first_seen": "2026-08-28T16:56:03.738Z"
@@ -267,12 +382,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A powerful and modular toolkit for record linkage and duplicate detection in Python",
+                "homepage": "http://recordlinkage.readthedocs.io/",
                 "id": 44471657,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-02-21T18:15:38Z",
+                "open_issues": 64,
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1062
+                "stars": 1062,
+                "topics": [
+                  "data-matching",
+                  "dedupe",
+                  "deduplication",
+                  "entity-resolution",
+                  "machine-learning",
+                  "privacy",
+                  "python",
+                  "python-library",
+                  "record-linkage",
+                  "similarity",
+                  "string-distance",
+                  "utrecht-university"
+                ]
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
             }
@@ -281,12 +414,30 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A powerful and modular toolkit for record linkage and duplicate detection in Python",
+            "homepage": "http://recordlinkage.readthedocs.io/",
             "id": 44471657,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-02-21T18:15:38Z",
+            "open_issues": 64,
             "owner": "J535D165",
             "repo": "recordlinkage",
-            "stars": 1062
+            "stars": 1062,
+            "topics": [
+              "data-matching",
+              "dedupe",
+              "deduplication",
+              "entity-resolution",
+              "machine-learning",
+              "privacy",
+              "python",
+              "python-library",
+              "record-linkage",
+              "similarity",
+              "string-distance",
+              "utrecht-university"
+            ]
           },
           "title": "Python Record Linkage Toolkit",
           "first_seen": "2026-08-28T16:56:03.738Z"
@@ -300,12 +451,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Record Linkage Toolkit for R",
+                "homepage": null,
                 "id": 295448880,
                 "language": "R",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-08T14:38:31Z",
+                "open_issues": 3,
                 "owner": "djvanderlaan",
                 "repo": "reclin2",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
             }
@@ -314,12 +470,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Record Linkage Toolkit for R",
+            "homepage": null,
             "id": 295448880,
             "language": "R",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-08T14:38:31Z",
+            "open_issues": 3,
             "owner": "djvanderlaan",
             "repo": "reclin2",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "title": "Reclin2",
           "first_seen": "2026-08-28T16:56:03.738Z"
@@ -333,12 +494,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Record Linkage ToolKit (Find and link entities)",
+                "homepage": null,
                 "id": 82112718,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-14T21:48:59Z",
+                "open_issues": 7,
                 "owner": "usc-isi-i2",
                 "repo": "rltk",
-                "stars": 111
+                "stars": 111,
+                "topics": [
+                  "deduplication",
+                  "entity-resolution",
+                  "linkage",
+                  "record-linkage",
+                  "similarity",
+                  "similarity-metric",
+                  "string-similarity"
+                ]
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
             }
@@ -347,12 +521,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Record Linkage ToolKit (Find and link entities)",
+            "homepage": null,
             "id": 82112718,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-14T21:48:59Z",
+            "open_issues": 7,
             "owner": "usc-isi-i2",
             "repo": "rltk",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "deduplication",
+              "entity-resolution",
+              "linkage",
+              "record-linkage",
+              "similarity",
+              "similarity-metric",
+              "string-similarity"
+            ]
           },
           "title": "RLTK",
           "first_seen": "2026-08-28T16:56:03.738Z"
@@ -366,12 +553,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, accurate and scalable probabilistic data linkage with support for multiple SQL backends",
+                "homepage": "https://moj-analytical-services.github.io/splink/",
                 "id": 223420284,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:38:16Z",
+                "open_issues": 216,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2369
+                "stars": 2369,
+                "topics": [
+                  "data-matching",
+                  "data-science",
+                  "deduplicate-data",
+                  "deduplication",
+                  "duckdb",
+                  "em-algorithm",
+                  "entity-resolution",
+                  "fuzzy-matching",
+                  "record-linkage",
+                  "spark",
+                  "uk-gov-data-science"
+                ]
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
             }
@@ -380,12 +584,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Fast, accurate and scalable probabilistic data linkage with support for multiple SQL backends",
+            "homepage": "https://moj-analytical-services.github.io/splink/",
             "id": 223420284,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:38:16Z",
+            "open_issues": 216,
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2369
+            "stars": 2369,
+            "topics": [
+              "data-matching",
+              "data-science",
+              "deduplicate-data",
+              "deduplication",
+              "duckdb",
+              "em-algorithm",
+              "entity-resolution",
+              "fuzzy-matching",
+              "record-linkage",
+              "spark",
+              "uk-gov-data-science"
+            ]
           },
           "title": "Splink",
           "first_seen": "2026-08-28T16:56:03.738Z"
@@ -396,12 +617,37 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Scalable master data management, identity resolution, entity resolution, and deduplication using ML",
+            "homepage": null,
             "id": 399775320,
             "language": "Java",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T04:32:33Z",
+            "open_issues": 88,
             "owner": "zinggAI",
             "repo": "zingg",
-            "stars": 1238
+            "stars": 1238,
+            "topics": [
+              "cdp",
+              "customer-data-platform",
+              "data-science",
+              "databricks",
+              "dataengineering",
+              "datalake",
+              "dataquality",
+              "dedupe",
+              "deduplication",
+              "entity-resolution",
+              "fuzzy-matching",
+              "fuzzymatch",
+              "identity-resolution",
+              "master-data",
+              "master-data-management",
+              "masterdata",
+              "mdm",
+              "snowflake",
+              "spark"
+            ]
           },
           "title": "Zingg",
           "first_seen": "2026-08-28T16:56:03.738Z"
@@ -411,15 +657,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:56:03.738Z",
+    "last_updated": "2026-08-29T04:47:34.050Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of free data matching and record linkage software. ",
+      "homepage": null,
       "id": 115945560,
       "language": null,
+      "license": null,
       "last_commit": "2024-02-21T15:30:56Z",
+      "open_issues": 9,
       "owner": "J535D165",
       "repo": "data-matching-software",
-      "stars": 406
+      "stars": 406,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "data-matching",
+        "deduplication",
+        "entity-resolution",
+        "fuzzy-matching",
+        "machine-learning",
+        "open-source",
+        "record-linkage",
+        "software"
+      ]
     },
     "original_repository_sha": "f3e7176ecfc2802c7250425d0a606855287c4ce6",
     "enhanced_repository": "enhansome/enhansome-data-matching-software",
