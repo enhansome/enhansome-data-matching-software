@@ -289,7 +289,7 @@
                 "open_issues": 15,
                 "owner": "scify",
                 "repo": "JedAIToolkit",
-                "stars": 225,
+                "stars": 226,
                 "topics": [
                   "blocking",
                   "entity-matching",
@@ -315,7 +315,7 @@
                 "open_issues": 15,
                 "owner": "scify",
                 "repo": "JedAIToolkit",
-                "stars": 225,
+                "stars": 226,
                 "topics": [
                   "blocking",
                   "entity-matching",
@@ -623,7 +623,7 @@
             "language": "Java",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-26T04:32:33Z",
-            "open_issues": 89,
+            "open_issues": 90,
             "owner": "zinggAI",
             "repo": "zingg",
             "stars": 1238,
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:07:51.066Z",
+    "last_updated": "2026-08-31T11:09:22.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",

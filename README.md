@@ -324,7 +324,7 @@ code\]](https://github.com/moj-analytical-services/splink) ⭐ 2,369 | 🐛 216 
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/splink)                                                                                                                                                            |
 | GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social\&label=Star)](https://github.com/moj-analytical-services/splink) ⭐ 2,369 \| 🐛 216 \| 🌐 Python \| 📅 2026-08-28 |
 
-#### [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,238 | 🐛 89 | 🌐 Java | 📅 2026-08-26
+#### [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,238 | 🐛 90 | 🌐 Java | 📅 2026-08-26
 
 [Zingg](https://zingg.ai) is an open-source ML based tool for entity resolution with which analytics engineer and the data scientist can quickly integrate data silos and build unified views at scale. Zingg has the ability to connect to disparate data source, local and cloud file systems in any format, enterprise applications and relational, NoSQL and cloud databases and warehouses. It scales to large volume of data and you can define domain specific functions to improve matching.
 Not only Zingg support English as well as Chinese, Thai, Japanese, Hindi and other languages, it also has a very active [slack community](https://join.slack.com/t/zinggai/shared_invite/zt-w7zlcnol-vEuqU9m~Q56kLLUVxRgpOA) where people around the globe come and help and share their views.
@@ -366,4 +366,4 @@ This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
