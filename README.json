@@ -64,7 +64,7 @@
                 "open_issues": 91,
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4509,
+                "stars": 4510,
                 "topics": [
                   "clustering",
                   "datamade",
@@ -93,7 +93,7 @@
             "open_issues": 91,
             "owner": "dedupeio",
             "repo": "dedupe",
-            "stars": 4509,
+            "stars": 4510,
             "topics": [
               "clustering",
               "datamade",
@@ -558,11 +558,11 @@
                 "id": 223420284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-28T14:38:16Z",
-                "open_issues": 216,
+                "last_commit": "2026-08-31T14:35:45Z",
+                "open_issues": 217,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2369,
+                "stars": 2372,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -589,11 +589,11 @@
             "id": 223420284,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T14:38:16Z",
-            "open_issues": 216,
+            "last_commit": "2026-08-31T14:35:45Z",
+            "open_issues": 217,
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2369,
+            "stars": 2372,
             "topics": [
               "data-matching",
               "data-science",
@@ -622,11 +622,11 @@
             "id": 399775320,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-26T04:32:33Z",
+            "last_commit": "2026-09-01T04:39:07Z",
             "open_issues": 90,
             "owner": "zinggAI",
             "repo": "zingg",
-            "stars": 1238,
+            "stars": 1239,
             "topics": [
               "cdp",
               "customer-data-platform",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:09:22.961Z",
+    "last_updated": "2026-09-01T09:36:29.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
