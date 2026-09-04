@@ -305,7 +305,7 @@ and deduplication.
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/rltk)                                                                                                                            |
 | GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/usc-isi-i2/rltk.svg?style=social\&label=Star)](https://github.com/usc-isi-i2/rltk) ⭐ 111 \| 🐛 7 \| 🌐 Python \| 📅 2023-08-14 |
 
-#### [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,377 | 🐛 217 | 🌐 Python | 📅 2026-09-02
+#### [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,381 | 🐛 207 | 🌐 Python | 📅 2026-09-03
 
 Splink is a Python package for probabilistic record linkage at scale.
 It supports multiple backends to execute linkage jobs, including DuckDB
@@ -314,7 +314,7 @@ of tens of millions of records with runtimes of less than an hour, including
 the clustering of results using connected components. It includes interactive tools
 to support the lifecycle of a linking project, from exploratory analysis through to
 diagnostics and quality assurance.[\[source
-code\]](https://github.com/moj-analytical-services/splink) ⭐ 2,377 | 🐛 217 | 🌐 Python | 📅 2026-09-02
+code\]](https://github.com/moj-analytical-services/splink) ⭐ 2,381 | 🐛 207 | 🌐 Python | 📅 2026-09-03
 
 |                     |                                                                                                                                                                                                                       |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -322,9 +322,9 @@ code\]](https://github.com/moj-analytical-services/splink) ⭐ 2,377 | 🐛 217 
 | Language            | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/splink)                                                                                                                                               |
 | Latest release      | [![PyPI](https://img.shields.io/pypi/v/splink.svg)](https://pypi.python.org/pypi/splink/)                                                                                                                             |
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/splink)                                                                                                                                                            |
-| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social\&label=Star)](https://github.com/moj-analytical-services/splink) ⭐ 2,377 \| 🐛 217 \| 🌐 Python \| 📅 2026-09-02 |
+| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social\&label=Star)](https://github.com/moj-analytical-services/splink) ⭐ 2,381 \| 🐛 207 \| 🌐 Python \| 📅 2026-09-03 |
 
-#### [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,243 | 🐛 89 | 🌐 Java | 📅 2026-09-02
+#### [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,243 | 🐛 91 | 🌐 Java | 📅 2026-09-02
 
 [Zingg](https://zingg.ai) is an open-source ML based tool for entity resolution with which analytics engineer and the data scientist can quickly integrate data silos and build unified views at scale. Zingg has the ability to connect to disparate data source, local and cloud file systems in any format, enterprise applications and relational, NoSQL and cloud databases and warehouses. It scales to large volume of data and you can define domain specific functions to improve matching.
 Not only Zingg support English as well as Chinese, Thai, Japanese, Hindi and other languages, it also has a very active [slack community](https://join.slack.com/t/zinggai/shared_invite/zt-w7zlcnol-vEuqU9m~Q56kLLUVxRgpOA) where people around the globe come and help and share their views.
@@ -366,4 +366,4 @@ This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
