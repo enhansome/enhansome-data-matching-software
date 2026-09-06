@@ -82,7 +82,7 @@ Dedupe is a python library for fuzzy matching, deduplication and entity
 resolution on structured data. The library makes use of active learning to
 match record pairs. Active learning is useful in cases without training data.
 Dedupe has a side-product for deduplicating CSV files,
-[csvdedupe](https://github.com/dedupeio/csvdedupe) ⭐ 434 | 🐛 25 | 🌐 Python | 📅 2020-03-31, through the command line.
+[csvdedupe](https://github.com/dedupeio/csvdedupe) ⭐ 433 | 🐛 25 | 🌐 Python | 📅 2020-03-31, through the command line.
 Dedupeio also offers commercial products for data matching.
 
 |                     |                                                                                                                                                                                        |
@@ -305,7 +305,7 @@ and deduplication.
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/rltk)                                                                                                                            |
 | GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/usc-isi-i2/rltk.svg?style=social\&label=Star)](https://github.com/usc-isi-i2/rltk) ⭐ 111 \| 🐛 7 \| 🌐 Python \| 📅 2023-08-14 |
 
-#### [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,383 | 🐛 210 | 🌐 Python | 📅 2026-09-04
+#### [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,384 | 🐛 210 | 🌐 Python | 📅 2026-09-04
 
 Splink is a Python package for probabilistic record linkage at scale.
 It supports multiple backends to execute linkage jobs, including DuckDB
@@ -314,7 +314,7 @@ of tens of millions of records with runtimes of less than an hour, including
 the clustering of results using connected components. It includes interactive tools
 to support the lifecycle of a linking project, from exploratory analysis through to
 diagnostics and quality assurance.[\[source
-code\]](https://github.com/moj-analytical-services/splink) ⭐ 2,383 | 🐛 210 | 🌐 Python | 📅 2026-09-04
+code\]](https://github.com/moj-analytical-services/splink) ⭐ 2,384 | 🐛 210 | 🌐 Python | 📅 2026-09-04
 
 |                     |                                                                                                                                                                                                                       |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -322,7 +322,7 @@ code\]](https://github.com/moj-analytical-services/splink) ⭐ 2,383 | 🐛 210 
 | Language            | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/splink)                                                                                                                                               |
 | Latest release      | [![PyPI](https://img.shields.io/pypi/v/splink.svg)](https://pypi.python.org/pypi/splink/)                                                                                                                             |
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/splink)                                                                                                                                                            |
-| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social\&label=Star)](https://github.com/moj-analytical-services/splink) ⭐ 2,383 \| 🐛 210 \| 🌐 Python \| 📅 2026-09-04 |
+| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social\&label=Star)](https://github.com/moj-analytical-services/splink) ⭐ 2,384 \| 🐛 210 \| 🌐 Python \| 📅 2026-09-04 |
 
 #### [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,243 | 🐛 91 | 🌐 Java | 📅 2026-09-04
 
@@ -366,4 +366,4 @@ This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

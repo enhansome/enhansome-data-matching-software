@@ -562,7 +562,7 @@
                 "open_issues": 210,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2383,
+                "stars": 2384,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -593,7 +593,7 @@
             "open_issues": 210,
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2383,
+            "stars": 2384,
             "topics": [
               "data-matching",
               "data-science",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:36:42.758Z",
+    "last_updated": "2026-09-06T08:56:53.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
