@@ -64,7 +64,7 @@
                 "open_issues": 92,
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4511,
+                "stars": 4512,
                 "topics": [
                   "clustering",
                   "datamade",
@@ -93,7 +93,7 @@
             "open_issues": 92,
             "owner": "dedupeio",
             "repo": "dedupe",
-            "stars": 4511,
+            "stars": 4512,
             "topics": [
               "clustering",
               "datamade",
@@ -558,11 +558,11 @@
                 "id": 223420284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-10T07:20:50Z",
-                "open_issues": 207,
+                "last_commit": "2026-09-11T08:49:14Z",
+                "open_issues": 209,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2393,
+                "stars": 2398,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -589,11 +589,11 @@
             "id": 223420284,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-10T07:20:50Z",
-            "open_issues": 207,
+            "last_commit": "2026-09-11T08:49:14Z",
+            "open_issues": 209,
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2393,
+            "stars": 2398,
             "topics": [
               "data-matching",
               "data-science",
@@ -626,7 +626,7 @@
             "open_issues": 92,
             "owner": "zinggAI",
             "repo": "zingg",
-            "stars": 1245,
+            "stars": 1246,
             "topics": [
               "cdp",
               "customer-data-platform",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T09:11:52.625Z",
+    "last_updated": "2026-09-11T09:09:48.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
