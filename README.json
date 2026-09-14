@@ -562,7 +562,7 @@
                 "open_issues": 211,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2399,
+                "stars": 2406,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -593,7 +593,7 @@
             "open_issues": 211,
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2399,
+            "stars": 2406,
             "topics": [
               "data-matching",
               "data-science",
@@ -622,7 +622,7 @@
             "id": 399775320,
             "language": "Java",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T15:47:48Z",
+            "last_commit": "2026-09-13T12:58:12Z",
             "open_issues": 92,
             "owner": "zinggAI",
             "repo": "zingg",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T09:45:11.957Z",
+    "last_updated": "2026-09-14T10:07:52.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
