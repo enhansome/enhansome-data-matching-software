@@ -64,7 +64,7 @@
                 "open_issues": 92,
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4511,
+                "stars": 4509,
                 "topics": [
                   "clustering",
                   "datamade",
@@ -93,7 +93,7 @@
             "open_issues": 92,
             "owner": "dedupeio",
             "repo": "dedupe",
-            "stars": 4511,
+            "stars": 4509,
             "topics": [
               "clustering",
               "datamade",
@@ -391,7 +391,7 @@
                 "open_issues": 64,
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1062,
+                "stars": 1061,
                 "topics": [
                   "data-matching",
                   "dedupe",
@@ -423,7 +423,7 @@
             "open_issues": 64,
             "owner": "J535D165",
             "repo": "recordlinkage",
-            "stars": 1062,
+            "stars": 1061,
             "topics": [
               "data-matching",
               "dedupe",
@@ -558,11 +558,11 @@
                 "id": 223420284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-14T14:35:21Z",
-                "open_issues": 212,
+                "last_commit": "2026-09-15T15:43:58Z",
+                "open_issues": 213,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2408,
+                "stars": 2407,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -589,11 +589,11 @@
             "id": 223420284,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T14:35:21Z",
-            "open_issues": 212,
+            "last_commit": "2026-09-15T15:43:58Z",
+            "open_issues": 213,
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2408,
+            "stars": 2407,
             "topics": [
               "data-matching",
               "data-science",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T09:36:29.010Z",
+    "last_updated": "2026-09-16T09:31:41.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
