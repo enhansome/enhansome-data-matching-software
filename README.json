@@ -197,7 +197,7 @@
                 "open_issues": 22,
                 "owner": "RobinL",
                 "repo": "fuzzymatcher",
-                "stars": 286,
+                "stars": 287,
                 "topics": [
                   "data-matching",
                   "fuzzy-matching",
@@ -223,7 +223,7 @@
                 "open_issues": 22,
                 "owner": "RobinL",
                 "repo": "fuzzymatcher",
-                "stars": 286,
+                "stars": 287,
                 "topics": [
                   "data-matching",
                   "fuzzy-matching",
@@ -252,7 +252,7 @@
                 "id": 486261782,
                 "language": "Python",
                 "license": "MPL-2.0",
-                "last_commit": "2026-01-20T16:00:20Z",
+                "last_commit": "2026-09-22T20:54:11Z",
                 "open_issues": 18,
                 "owner": "ipums",
                 "repo": "hlink",
@@ -391,7 +391,7 @@
                 "open_issues": 64,
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1061,
+                "stars": 1062,
                 "topics": [
                   "data-matching",
                   "dedupe",
@@ -423,7 +423,7 @@
             "open_issues": 64,
             "owner": "J535D165",
             "repo": "recordlinkage",
-            "stars": 1061,
+            "stars": 1062,
             "topics": [
               "data-matching",
               "dedupe",
@@ -460,7 +460,7 @@
                 "open_issues": 3,
                 "owner": "djvanderlaan",
                 "repo": "reclin2",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
@@ -479,7 +479,7 @@
             "open_issues": 3,
             "owner": "djvanderlaan",
             "repo": "reclin2",
-            "stars": 52,
+            "stars": 53,
             "topics": []
           },
           "title": "Reclin2",
@@ -558,11 +558,11 @@
                 "id": 223420284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T01:48:00Z",
-                "open_issues": 212,
+                "last_commit": "2026-09-22T18:03:33Z",
+                "open_issues": 215,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2421,
+                "stars": 2424,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -589,11 +589,11 @@
             "id": 223420284,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-19T01:48:00Z",
-            "open_issues": 212,
+            "last_commit": "2026-09-22T18:03:33Z",
+            "open_issues": 215,
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2421,
+            "stars": 2424,
             "topics": [
               "data-matching",
               "data-science",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T09:29:14.548Z",
+    "last_updated": "2026-09-23T09:33:20.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
@@ -669,7 +669,7 @@
       "open_issues": 9,
       "owner": "J535D165",
       "repo": "data-matching-software",
-      "stars": 406,
+      "stars": 407,
       "topics": [
         "awesome",
         "awesome-list",

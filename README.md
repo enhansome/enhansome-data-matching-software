@@ -164,7 +164,7 @@ maintained. [\[source code\]](http://fril.sourceforge.net/download.html)
 
 A Python package that allows the user to fuzzy match two pandas dataframes
 based on one or more fields in common. The functionality is limited at the
-moment. [\[source code\]](https://github.com/RobinL/fuzzymatcher) ⭐ 286 | 🐛 22 | 🌐 Python | 📅 2022-08-09
+moment. [\[source code\]](https://github.com/RobinL/fuzzymatcher) ⭐ 287 | 🐛 22 | 🌐 Python | 📅 2022-08-09
 
 |                     |                                                                                                                                                                                              |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -172,11 +172,11 @@ moment. [\[source code\]](https://github.com/RobinL/fuzzymatcher) ⭐ 286 | 🐛
 | Language            | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/fuzzymatcher)                                                                                                                |
 | Latest release      | [![PyPI](https://img.shields.io/pypi/v/fuzzymatcher.svg)](https://pypi.python.org/pypi/fuzzymatcher/)                                                                                        |
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/fuzzymatcher)                                                                                                                             |
-| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/RobinL/fuzzymatcher.svg?style=social\&label=Star)](https://github.com/RobinL/fuzzymatcher) ⭐ 286 \| 🐛 22 \| 🌐 Python \| 📅 2022-08-09 |
+| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/RobinL/fuzzymatcher.svg?style=social\&label=Star)](https://github.com/RobinL/fuzzymatcher) ⭐ 287 \| 🐛 22 \| 🌐 Python \| 📅 2022-08-09 |
 
 #### [hlink](https://pypi.python.org/pypi/hlink)
 
-A Python package designed to link two datasets. The primary use case was for linking demographics in the Household -> Person hierarchical structure, however it can be used to link generic datasets as well by skipping household linking tasks. It allows for probabilistic and deterministic record linkage. [\[source\_code\]](https://github.com/ipums/hlink) ⭐ 15 | 🐛 18 | 🌐 Python | 📅 2026-01-20
+A Python package designed to link two datasets. The primary use case was for linking demographics in the Household -> Person hierarchical structure, however it can be used to link generic datasets as well by skipping household linking tasks. It allows for probabilistic and deterministic record linkage. [\[source\_code\]](https://github.com/ipums/hlink) ⭐ 15 | 🐛 18 | 🌐 Python | 📅 2026-09-22
 
 |                     |                                                                                                                                                                         |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -184,7 +184,7 @@ A Python package designed to link two datasets. The primary use case was for lin
 | Language            | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/hlink)                                                                                                  |
 | Latest release      | [![PyPI](https://img.shields.io/pypi/v/hlink.svg)](https://pypi.python.org/pypi/hlink/)                                                                                 |
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/hlink)                                                                                                               |
-| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/ipums/hlink?style=social\&label=Star)](https://github.com/ipums/hlink) ⭐ 15 \| 🐛 18 \| 🌐 Python \| 📅 2026-01-20 |
+| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/ipums/hlink?style=social\&label=Star)](https://github.com/ipums/hlink) ⭐ 15 \| 🐛 18 \| 🌐 Python \| 📅 2026-09-22 |
 
 #### [JedAI](http://jedai.scify.org/)
 
@@ -216,7 +216,7 @@ code\]](https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware) ⭐ 5 
 | Downloads per month |                                                                                                                                                                                                                                           |
 | GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware.svg?style=social\&label=Star)](https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware) ⭐ 5 \| 🐛 2 \| 🌐 C# \| 📅 2017-09-28 |
 
-#### [Python Record Linkage Toolkit](https://github.com/J535D165/recordlinkage) ⭐ 1,061 | 🐛 64 | 🌐 Python | 📅 2024-02-21
+#### [Python Record Linkage Toolkit](https://github.com/J535D165/recordlinkage) ⭐ 1,062 | 🐛 64 | 🌐 Python | 📅 2024-02-21
 
 The Python Record Linkage Toolkit is a library to link records in or between
 data sources. The toolkit provides most of the tools needed for record linkage
@@ -229,7 +229,7 @@ small or medium sized files.
 | Language            | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/recordlinkage)                                                                                                                       |
 | Latest release      | [![PyPI](https://img.shields.io/pypi/v/recordlinkage.svg)](https://pypi.python.org/pypi/recordlinkage/)                                                                                              |
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/recordlinkage)                                                                                                                                    |
-| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/J535D165/recordlinkage.svg?style=social\&label=Star)](https://github.com/J535D165/recordlinkage) ⭐ 1,061 \| 🐛 64 \| 🌐 Python \| 📅 2024-02-21 |
+| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/J535D165/recordlinkage.svg?style=social\&label=Star)](https://github.com/J535D165/recordlinkage) ⭐ 1,062 \| 🐛 64 \| 🌐 Python \| 📅 2024-02-21 |
 
 #### [RecordLinkage (R)](https://cran.r-project.org/web/packages/RecordLinkage/index.html)
 
@@ -246,7 +246,7 @@ package is published on CRAN.
 | Downloads per month | [![metacran downloads](https://cranlogs.r-pkg.org/badges/last-month/RecordLinkage)](https://cran.r-project.org/package=RecordLinkage) |
 | GitHub stars        |                                                                                                                                       |
 
-#### [Reclin2](https://github.com/djvanderlaan/reclin2) ⭐ 52 | 🐛 3 | 🌐 R | 📅 2026-01-08
+#### [Reclin2](https://github.com/djvanderlaan/reclin2) ⭐ 53 | 🐛 3 | 🌐 R | 📅 2026-01-08
 
 Package written in R that provides functions for linking data sets. The framework offers
 the option to compute the weigths of the Fellegi-Sunter model. It doesn't implement an
@@ -259,7 +259,7 @@ package is published on CRAN. Formerly <https://github.com/djvanderlaan/reclin> 
 | Language            | `R`                                                                                                                                                                                     |
 | Latest release      | [![CRAN](https://img.shields.io/cran/v/reclin2.svg)](https://cran.r-project.org/web/packages/reclin2/index.html)                                                                        |
 | Downloads per month | [![metacran downloads](https://cranlogs.r-pkg.org/badges/last-month/reclin2)](https://cran.r-project.org/package=reclin2)                                                               |
-| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/djvanderlaan/reclin2.svg?style=social\&label=Star)](https://github.com/djvanderlaan/reclin2) ⭐ 52 \| 🐛 3 \| 🌐 R \| 📅 2026-01-08 |
+| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/djvanderlaan/reclin2.svg?style=social\&label=Star)](https://github.com/djvanderlaan/reclin2) ⭐ 53 \| 🐛 3 \| 🌐 R \| 📅 2026-01-08 |
 
 #### [RELAIS](https://www.istat.it/en/methods-and-tools/methods-and-it-tools/process/processing-tools/relais)
 
@@ -305,7 +305,7 @@ and deduplication.
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/rltk)                                                                                                                            |
 | GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/usc-isi-i2/rltk.svg?style=social\&label=Star)](https://github.com/usc-isi-i2/rltk) ⭐ 111 \| 🐛 7 \| 🌐 Python \| 📅 2023-08-14 |
 
-#### [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,421 | 🐛 212 | 🌐 Python | 📅 2026-09-19
+#### [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,424 | 🐛 215 | 🌐 Python | 📅 2026-09-22
 
 Splink is a Python package for probabilistic record linkage at scale.
 It supports multiple backends to execute linkage jobs, including DuckDB
@@ -314,7 +314,7 @@ of tens of millions of records with runtimes of less than an hour, including
 the clustering of results using connected components. It includes interactive tools
 to support the lifecycle of a linking project, from exploratory analysis through to
 diagnostics and quality assurance.[\[source
-code\]](https://github.com/moj-analytical-services/splink) ⭐ 2,421 | 🐛 212 | 🌐 Python | 📅 2026-09-19
+code\]](https://github.com/moj-analytical-services/splink) ⭐ 2,424 | 🐛 215 | 🌐 Python | 📅 2026-09-22
 
 |                     |                                                                                                                                                                                                                       |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -322,7 +322,7 @@ code\]](https://github.com/moj-analytical-services/splink) ⭐ 2,421 | 🐛 212 
 | Language            | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/splink)                                                                                                                                               |
 | Latest release      | [![PyPI](https://img.shields.io/pypi/v/splink.svg)](https://pypi.python.org/pypi/splink/)                                                                                                                             |
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/splink)                                                                                                                                                            |
-| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social\&label=Star)](https://github.com/moj-analytical-services/splink) ⭐ 2,421 \| 🐛 212 \| 🌐 Python \| 📅 2026-09-19 |
+| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social\&label=Star)](https://github.com/moj-analytical-services/splink) ⭐ 2,424 \| 🐛 215 \| 🌐 Python \| 📅 2026-09-22 |
 
 #### [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,249 | 🐛 109 | 🌐 Java | 📅 2026-09-13
 
@@ -359,11 +359,11 @@ issue or do a Pull Request. The same holds for missing or incomplete
 information.
 
 This project is initiated by the author of the [Python Record Linkage
-Toolkit](https://github.com/J535D165/recordlinkage) ⭐ 1,061 | 🐛 64 | 🌐 Python | 📅 2024-02-21 @J535D165. The aim is to
+Toolkit](https://github.com/J535D165/recordlinkage) ⭐ 1,062 | 🐛 64 | 🌐 Python | 📅 2024-02-21 @J535D165. The aim is to
 get a list and comparison of data matching software.
 
 This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
