@@ -391,7 +391,7 @@
                 "open_issues": 65,
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1062,
+                "stars": 1063,
                 "topics": [
                   "data-matching",
                   "dedupe",
@@ -423,7 +423,7 @@
             "open_issues": 65,
             "owner": "J535D165",
             "repo": "recordlinkage",
-            "stars": 1062,
+            "stars": 1063,
             "topics": [
               "data-matching",
               "dedupe",
@@ -562,7 +562,7 @@
                 "open_issues": 218,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2450,
+                "stars": 2453,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -593,7 +593,7 @@
             "open_issues": 218,
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2450,
+            "stars": 2453,
             "topics": [
               "data-matching",
               "data-science",
@@ -626,7 +626,7 @@
             "open_issues": 109,
             "owner": "zinggAI",
             "repo": "zingg",
-            "stars": 1252,
+            "stars": 1253,
             "topics": [
               "cdp",
               "customer-data-platform",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:11:03.277Z",
+    "last_updated": "2026-10-02T10:44:33.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
