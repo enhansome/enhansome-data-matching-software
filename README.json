@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "GitHub stars",
-              "description": null,
+              "description": "pierrepita/atyimo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -51,7 +51,7 @@
             {
               "node_type": "item",
               "title": "GitHub stars",
-              "description": null,
+              "description": "dedupeio/dedupe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -135,7 +135,7 @@
             {
               "node_type": "item",
               "title": "Implements a Fellegi-Sunter probabilistic record linkage model that allows for missing data and the inclusion of auxiliary information. This includes functionalities to conduct a merge of two datasets under the Fellegi-Sunter model using the Expectation-Maximization algorithm. fastLink is a programming API written in R. (Enamorado, Fifield & Imai, 2017",
-              "description": ") [source code]",
+              "description": "kosukeimai/fastLink",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -156,7 +156,7 @@
             {
               "node_type": "item",
               "title": "GitHub stars",
-              "description": null,
+              "description": "kosukeimai/fastLink",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -184,7 +184,7 @@
             {
               "node_type": "item",
               "title": "A Python package that allows the user to fuzzy match two pandas dataframes based on one or more fields in common. The functionality is limited at the moment. [source code]",
-              "description": null,
+              "description": "RobinL/fuzzymatcher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -210,7 +210,7 @@
             {
               "node_type": "item",
               "title": "GitHub stars",
-              "description": null,
+              "description": "RobinL/fuzzymatcher",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -243,7 +243,7 @@
             {
               "node_type": "item",
               "title": "GitHub stars",
-              "description": null,
+              "description": "ipums/hlink",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -276,7 +276,7 @@
             {
               "node_type": "item",
               "title": "Java gEneric DAta Integration (JedAI) Toolkit is a Entity Resolution Tool developed by a group of univeristies. JedAI offers a Graphical User Interface. [source code]",
-              "description": null,
+              "description": "scify/JedAIToolkit",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -302,7 +302,7 @@
             {
               "node_type": "item",
               "title": "GitHub stars",
-              "description": null,
+              "description": "scify/JedAIToolkit",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -335,7 +335,7 @@
             {
               "node_type": "item",
               "title": "GitHub stars",
-              "description": null,
+              "description": "LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -378,7 +378,7 @@
             {
               "node_type": "item",
               "title": "GitHub stars",
-              "description": null,
+              "description": "J535D165/recordlinkage",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -447,7 +447,7 @@
             {
               "node_type": "item",
               "title": "GitHub stars",
-              "description": null,
+              "description": "djvanderlaan/reclin2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -490,7 +490,7 @@
             {
               "node_type": "item",
               "title": "GitHub stars",
-              "description": null,
+              "description": "usc-isi-i2/rltk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -549,7 +549,7 @@
             {
               "node_type": "item",
               "title": "GitHub stars",
-              "description": null,
+              "description": "moj-analytical-services/splink",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -562,7 +562,7 @@
                 "open_issues": 218,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2453,
+                "stars": 2452,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -593,7 +593,7 @@
             "open_issues": 218,
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2453,
+            "stars": 2452,
             "topics": [
               "data-matching",
               "data-science",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:44:33.020Z",
+    "last_updated": "2026-10-03T04:38:55.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
