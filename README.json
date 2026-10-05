@@ -64,7 +64,7 @@
                 "open_issues": 92,
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4516,
+                "stars": 4515,
                 "topics": [
                   "clustering",
                   "datamade",
@@ -93,7 +93,7 @@
             "open_issues": 92,
             "owner": "dedupeio",
             "repo": "dedupe",
-            "stars": 4516,
+            "stars": 4515,
             "topics": [
               "clustering",
               "datamade",
@@ -289,7 +289,7 @@
                 "open_issues": 15,
                 "owner": "scify",
                 "repo": "JedAIToolkit",
-                "stars": 226,
+                "stars": 225,
                 "topics": [
                   "blocking",
                   "entity-matching",
@@ -315,7 +315,7 @@
                 "open_issues": 15,
                 "owner": "scify",
                 "repo": "JedAIToolkit",
-                "stars": 226,
+                "stars": 225,
                 "topics": [
                   "blocking",
                   "entity-matching",
@@ -391,7 +391,7 @@
                 "open_issues": 65,
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1063,
+                "stars": 1062,
                 "topics": [
                   "data-matching",
                   "dedupe",
@@ -423,7 +423,7 @@
             "open_issues": 65,
             "owner": "J535D165",
             "repo": "recordlinkage",
-            "stars": 1063,
+            "stars": 1062,
             "topics": [
               "data-matching",
               "dedupe",
@@ -626,7 +626,7 @@
             "open_issues": 109,
             "owner": "zinggAI",
             "repo": "zingg",
-            "stars": 1253,
+            "stars": 1251,
             "topics": [
               "cdp",
               "customer-data-platform",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:45:54.328Z",
+    "last_updated": "2026-10-05T11:51:17.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
@@ -669,7 +669,7 @@
       "open_issues": 9,
       "owner": "J535D165",
       "repo": "data-matching-software",
-      "stars": 408,
+      "stars": 407,
       "topics": [
         "awesome",
         "awesome-list",
