@@ -626,7 +626,7 @@
             "open_issues": 110,
             "owner": "zinggAI",
             "repo": "zingg",
-            "stars": 1251,
+            "stars": 1252,
             "topics": [
               "cdp",
               "customer-data-platform",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:01:58.508Z",
+    "last_updated": "2026-10-06T11:31:46.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
