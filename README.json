@@ -148,7 +148,7 @@
                 "open_issues": 37,
                 "owner": "kosukeimai",
                 "repo": "fastLink",
-                "stars": 292,
+                "stars": 293,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
@@ -169,7 +169,7 @@
                 "open_issues": 37,
                 "owner": "kosukeimai",
                 "repo": "fastLink",
-                "stars": 292,
+                "stars": 293,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
@@ -558,11 +558,11 @@
                 "id": 223420284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-06T14:36:01Z",
-                "open_issues": 223,
+                "last_commit": "2026-10-12T19:03:37Z",
+                "open_issues": 222,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2469,
+                "stars": 2476,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -589,11 +589,11 @@
             "id": 223420284,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T14:36:01Z",
-            "open_issues": 223,
+            "last_commit": "2026-10-12T19:03:37Z",
+            "open_issues": 222,
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2469,
+            "stars": 2476,
             "topics": [
               "data-matching",
               "data-science",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T12:27:41.259Z",
+    "last_updated": "2026-10-13T12:11:44.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
