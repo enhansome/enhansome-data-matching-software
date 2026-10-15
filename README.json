@@ -558,11 +558,11 @@
                 "id": 223420284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-13T16:54:20Z",
-                "open_issues": 223,
+                "last_commit": "2026-10-14T21:23:01Z",
+                "open_issues": 224,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2479,
+                "stars": 2484,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -589,11 +589,11 @@
             "id": 223420284,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-13T16:54:20Z",
-            "open_issues": 223,
+            "last_commit": "2026-10-14T21:23:01Z",
+            "open_issues": 224,
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2479,
+            "stars": 2484,
             "topics": [
               "data-matching",
               "data-science",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T09:44:33.970Z",
+    "last_updated": "2026-10-15T09:27:04.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
