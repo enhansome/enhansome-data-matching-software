@@ -558,11 +558,11 @@
                 "id": 223420284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-26T13:15:43Z",
-                "open_issues": 225,
+                "last_commit": "2026-10-28T15:59:01Z",
+                "open_issues": 228,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2542,
+                "stars": 2545,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -589,11 +589,11 @@
             "id": 223420284,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T13:15:43Z",
-            "open_issues": 225,
+            "last_commit": "2026-10-28T15:59:01Z",
+            "open_issues": 228,
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2542,
+            "stars": 2545,
             "topics": [
               "data-matching",
               "data-science",
@@ -626,7 +626,7 @@
             "open_issues": 115,
             "owner": "zinggAI",
             "repo": "zingg",
-            "stars": 1264,
+            "stars": 1265,
             "topics": [
               "cdp",
               "customer-data-platform",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:50:12.454Z",
+    "last_updated": "2026-10-29T11:06:57.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
