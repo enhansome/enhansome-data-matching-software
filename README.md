@@ -114,7 +114,7 @@ functionalities to conduct a merge of two datasets under the Fellegi-Sunter
 model using the Expectation-Maximization algorithm. fastLink is a programming
 API written in R. ([Enamorado, Fifield & Imai,
 2017](http://imai.princeton.edu/research/files/linkage.pdf))  [\[source
-code\]](https://github.com/kosukeimai/fastLink) ⭐ 293 | 🐛 37 | 🌐 R | 📅 2026-02-28
+code\]](https://github.com/kosukeimai/fastLink) ⭐ 294 | 🐛 37 | 🌐 R | 📅 2026-02-28
 
 |                     |                                                                                                                                                                                         |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -122,7 +122,7 @@ code\]](https://github.com/kosukeimai/fastLink) ⭐ 293 | 🐛 37 | 🌐 R | �
 | Language            | `R`                                                                                                                                                                                     |
 | Latest release      | [![CRAN](https://img.shields.io/cran/v/fastLink.svg)](https://cran.r-project.org/web/packages/fastLink/index.html)                                                                      |
 | Downloads per month | [![metacran downloads](https://cranlogs.r-pkg.org/badges/last-month/fastLink)](https://cran.r-project.org/package=fastLink)                                                             |
-| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/kosukeimai/fastLink.svg?style=social\&label=Star)](https://github.com/kosukeimai/fastLink) ⭐ 293 \| 🐛 37 \| 🌐 R \| 📅 2026-02-28 |
+| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/kosukeimai/fastLink.svg?style=social\&label=Star)](https://github.com/kosukeimai/fastLink) ⭐ 294 \| 🐛 37 \| 🌐 R \| 📅 2026-02-28 |
 
 #### [FEBRL](https://sourceforge.net/projects/febrl/)
 
@@ -305,7 +305,7 @@ and deduplication.
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/rltk)                                                                                                                            |
 | GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/usc-isi-i2/rltk.svg?style=social\&label=Star)](https://github.com/usc-isi-i2/rltk) ⭐ 111 \| 🐛 7 \| 🌐 Python \| 📅 2023-08-14 |
 
-#### [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,547 | 🐛 229 | 🌐 Python | 📅 2026-10-29
+#### [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,550 | 🐛 229 | 🌐 Python | 📅 2026-10-29
 
 Splink is a Python package for probabilistic record linkage at scale.
 It supports multiple backends to execute linkage jobs, including DuckDB
@@ -314,7 +314,7 @@ of tens of millions of records with runtimes of less than an hour, including
 the clustering of results using connected components. It includes interactive tools
 to support the lifecycle of a linking project, from exploratory analysis through to
 diagnostics and quality assurance.[\[source
-code\]](https://github.com/moj-analytical-services/splink) ⭐ 2,547 | 🐛 229 | 🌐 Python | 📅 2026-10-29
+code\]](https://github.com/moj-analytical-services/splink) ⭐ 2,550 | 🐛 229 | 🌐 Python | 📅 2026-10-29
 
 |                     |                                                                                                                                                                                                                       |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -322,7 +322,7 @@ code\]](https://github.com/moj-analytical-services/splink) ⭐ 2,547 | 🐛 229 
 | Language            | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/splink)                                                                                                                                               |
 | Latest release      | [![PyPI](https://img.shields.io/pypi/v/splink.svg)](https://pypi.python.org/pypi/splink/)                                                                                                                             |
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/splink)                                                                                                                                                            |
-| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social\&label=Star)](https://github.com/moj-analytical-services/splink) ⭐ 2,547 \| 🐛 229 \| 🌐 Python \| 📅 2026-10-29 |
+| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social\&label=Star)](https://github.com/moj-analytical-services/splink) ⭐ 2,550 \| 🐛 229 \| 🌐 Python \| 📅 2026-10-29 |
 
 #### [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,266 | 🐛 115 | 🌐 Java | 📅 2026-10-27
 
@@ -366,4 +366,4 @@ This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._

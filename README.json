@@ -148,7 +148,7 @@
                 "open_issues": 37,
                 "owner": "kosukeimai",
                 "repo": "fastLink",
-                "stars": 293,
+                "stars": 294,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
@@ -169,7 +169,7 @@
                 "open_issues": 37,
                 "owner": "kosukeimai",
                 "repo": "fastLink",
-                "stars": 293,
+                "stars": 294,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
@@ -562,7 +562,7 @@
                 "open_issues": 229,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2547,
+                "stars": 2550,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -593,7 +593,7 @@
             "open_issues": 229,
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2547,
+            "stars": 2550,
             "topics": [
               "data-matching",
               "data-science",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:02:12.262Z",
+    "last_updated": "2026-10-31T10:36:52.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
