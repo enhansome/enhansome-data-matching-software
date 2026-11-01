@@ -61,7 +61,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-07-29T00:18:20Z",
-                "open_issues": 92,
+                "open_issues": 93,
                 "owner": "dedupeio",
                 "repo": "dedupe",
                 "stars": 4525,
@@ -90,7 +90,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-07-29T00:18:20Z",
-            "open_issues": 92,
+            "open_issues": 93,
             "owner": "dedupeio",
             "repo": "dedupe",
             "stars": 4525,
@@ -559,10 +559,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-29T14:34:17Z",
-                "open_issues": 229,
+                "open_issues": 228,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2550,
+                "stars": 2551,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -590,10 +590,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-29T14:34:17Z",
-            "open_issues": 229,
+            "open_issues": 228,
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2550,
+            "stars": 2551,
             "topics": [
               "data-matching",
               "data-science",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:36:52.662Z",
+    "last_updated": "2026-11-01T11:30:10.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
