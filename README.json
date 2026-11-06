@@ -391,7 +391,7 @@
                 "open_issues": 64,
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1066,
+                "stars": 1067,
                 "topics": [
                   "data-matching",
                   "dedupe",
@@ -423,7 +423,7 @@
             "open_issues": 64,
             "owner": "J535D165",
             "repo": "recordlinkage",
-            "stars": 1066,
+            "stars": 1067,
             "topics": [
               "data-matching",
               "dedupe",
@@ -558,11 +558,11 @@
                 "id": 223420284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-04T11:58:44Z",
-                "open_issues": 220,
+                "last_commit": "2026-11-05T13:52:27Z",
+                "open_issues": 221,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2561,
+                "stars": 2563,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -589,11 +589,11 @@
             "id": 223420284,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-04T11:58:44Z",
-            "open_issues": 220,
+            "last_commit": "2026-11-05T13:52:27Z",
+            "open_issues": 221,
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2561,
+            "stars": 2563,
             "topics": [
               "data-matching",
               "data-science",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T12:45:41.497Z",
+    "last_updated": "2026-11-06T12:29:22.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
