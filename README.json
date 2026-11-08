@@ -562,7 +562,7 @@
                 "open_issues": 221,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2563,
+                "stars": 2564,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -593,7 +593,7 @@
             "open_issues": 221,
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2563,
+            "stars": 2564,
             "topics": [
               "data-matching",
               "data-science",
@@ -626,7 +626,7 @@
             "open_issues": 117,
             "owner": "zinggAI",
             "repo": "zingg",
-            "stars": 1266,
+            "stars": 1267,
             "topics": [
               "cdp",
               "customer-data-platform",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:20:48.291Z",
+    "last_updated": "2026-11-08T11:32:17.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
