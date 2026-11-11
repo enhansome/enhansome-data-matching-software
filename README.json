@@ -64,7 +64,7 @@
                 "open_issues": 93,
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4527,
+                "stars": 4529,
                 "topics": [
                   "clustering",
                   "datamade",
@@ -93,7 +93,7 @@
             "open_issues": 93,
             "owner": "dedupeio",
             "repo": "dedupe",
-            "stars": 4527,
+            "stars": 4529,
             "topics": [
               "clustering",
               "datamade",
@@ -558,11 +558,11 @@
                 "id": 223420284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T10:55:26Z",
-                "open_issues": 222,
+                "last_commit": "2026-11-11T11:22:34Z",
+                "open_issues": 220,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2570,
+                "stars": 2573,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -589,11 +589,11 @@
             "id": 223420284,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-09T10:55:26Z",
-            "open_issues": 222,
+            "last_commit": "2026-11-11T11:22:34Z",
+            "open_issues": 220,
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2570,
+            "stars": 2573,
             "topics": [
               "data-matching",
               "data-science",
@@ -617,7 +617,7 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
-            "description": "Scalable master data management, identity resolution, entity resolution, and deduplication using ML",
+            "description": "AI based entity resolution, identity resolution, master data management and deduplication at scale for humans and agents",
             "homepage": null,
             "id": 399775320,
             "language": "Java",
@@ -626,7 +626,7 @@
             "open_issues": 117,
             "owner": "zinggAI",
             "repo": "zingg",
-            "stars": 1269,
+            "stars": 1271,
             "topics": [
               "cdp",
               "customer-data-platform",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T13:00:21.954Z",
+    "last_updated": "2026-11-11T12:11:20.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
