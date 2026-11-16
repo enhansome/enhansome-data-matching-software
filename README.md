@@ -114,7 +114,7 @@ functionalities to conduct a merge of two datasets under the Fellegi-Sunter
 model using the Expectation-Maximization algorithm. fastLink is a programming
 API written in R. ([Enamorado, Fifield & Imai,
 2017](http://imai.princeton.edu/research/files/linkage.pdf))  [\[source
-code\]](https://github.com/kosukeimai/fastLink) ⭐ 294 | 🐛 37 | 🌐 R | 📅 2026-02-28
+code\]](https://github.com/kosukeimai/fastLink) ⭐ 295 | 🐛 38 | 🌐 R | 📅 2026-02-28
 
 |                     |                                                                                                                                                                                         |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -122,7 +122,7 @@ code\]](https://github.com/kosukeimai/fastLink) ⭐ 294 | 🐛 37 | 🌐 R | �
 | Language            | `R`                                                                                                                                                                                     |
 | Latest release      | [![CRAN](https://img.shields.io/cran/v/fastLink.svg)](https://cran.r-project.org/web/packages/fastLink/index.html)                                                                      |
 | Downloads per month | [![metacran downloads](https://cranlogs.r-pkg.org/badges/last-month/fastLink)](https://cran.r-project.org/package=fastLink)                                                             |
-| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/kosukeimai/fastLink.svg?style=social\&label=Star)](https://github.com/kosukeimai/fastLink) ⭐ 294 \| 🐛 37 \| 🌐 R \| 📅 2026-02-28 |
+| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/kosukeimai/fastLink.svg?style=social\&label=Star)](https://github.com/kosukeimai/fastLink) ⭐ 295 \| 🐛 38 \| 🌐 R \| 📅 2026-02-28 |
 
 #### [FEBRL](https://sourceforge.net/projects/febrl/)
 
@@ -216,7 +216,7 @@ code\]](https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware) ⭐ 5 
 | Downloads per month |                                                                                                                                                                                                                                           |
 | GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware.svg?style=social\&label=Star)](https://github.com/LSHTM-ALPHAnetwork/PIRL_RecordLinkageSoftware) ⭐ 5 \| 🐛 2 \| 🌐 C# \| 📅 2017-09-28 |
 
-#### [Python Record Linkage Toolkit](https://github.com/J535D165/recordlinkage) ⭐ 1,067 | 🐛 64 | 🌐 Python | 📅 2024-02-21
+#### [Python Record Linkage Toolkit](https://github.com/J535D165/recordlinkage) ⭐ 1,066 | 🐛 64 | 🌐 Python | 📅 2024-02-21
 
 The Python Record Linkage Toolkit is a library to link records in or between
 data sources. The toolkit provides most of the tools needed for record linkage
@@ -229,7 +229,7 @@ small or medium sized files.
 | Language            | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/recordlinkage)                                                                                                                       |
 | Latest release      | [![PyPI](https://img.shields.io/pypi/v/recordlinkage.svg)](https://pypi.python.org/pypi/recordlinkage/)                                                                                              |
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/recordlinkage)                                                                                                                                    |
-| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/J535D165/recordlinkage.svg?style=social\&label=Star)](https://github.com/J535D165/recordlinkage) ⭐ 1,067 \| 🐛 64 \| 🌐 Python \| 📅 2024-02-21 |
+| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/J535D165/recordlinkage.svg?style=social\&label=Star)](https://github.com/J535D165/recordlinkage) ⭐ 1,066 \| 🐛 64 \| 🌐 Python \| 📅 2024-02-21 |
 
 #### [RecordLinkage (R)](https://cran.r-project.org/web/packages/RecordLinkage/index.html)
 
@@ -305,7 +305,7 @@ and deduplication.
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/rltk)                                                                                                                            |
 | GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/usc-isi-i2/rltk.svg?style=social\&label=Star)](https://github.com/usc-isi-i2/rltk) ⭐ 111 \| 🐛 7 \| 🌐 Python \| 📅 2023-08-14 |
 
-#### [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,584 | 🐛 221 | 🌐 Python | 📅 2026-11-11
+#### [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,586 | 🐛 221 | 🌐 Python | 📅 2026-11-11
 
 Splink is a Python package for probabilistic record linkage at scale.
 It supports multiple backends to execute linkage jobs, including DuckDB
@@ -314,7 +314,7 @@ of tens of millions of records with runtimes of less than an hour, including
 the clustering of results using connected components. It includes interactive tools
 to support the lifecycle of a linking project, from exploratory analysis through to
 diagnostics and quality assurance.[\[source
-code\]](https://github.com/moj-analytical-services/splink) ⭐ 2,584 | 🐛 221 | 🌐 Python | 📅 2026-11-11
+code\]](https://github.com/moj-analytical-services/splink) ⭐ 2,586 | 🐛 221 | 🌐 Python | 📅 2026-11-11
 
 |                     |                                                                                                                                                                                                                       |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -322,7 +322,7 @@ code\]](https://github.com/moj-analytical-services/splink) ⭐ 2,584 | 🐛 221 
 | Language            | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/splink)                                                                                                                                               |
 | Latest release      | [![PyPI](https://img.shields.io/pypi/v/splink.svg)](https://pypi.python.org/pypi/splink/)                                                                                                                             |
 | Downloads per month | ![PyPI - Downloads](https://img.shields.io/pypi/dm/splink)                                                                                                                                                            |
-| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social\&label=Star)](https://github.com/moj-analytical-services/splink) ⭐ 2,584 \| 🐛 221 \| 🌐 Python \| 📅 2026-11-11 |
+| GitHub stars        | [![GitHub stars](https://img.shields.io/github/stars/moj-analytical-services/splink.svg?style=social\&label=Star)](https://github.com/moj-analytical-services/splink) ⭐ 2,586 \| 🐛 221 \| 🌐 Python \| 📅 2026-11-11 |
 
 #### [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,274 | 🐛 117 | 🌐 Java | 📅 2026-11-03
 
@@ -359,11 +359,11 @@ issue or do a Pull Request. The same holds for missing or incomplete
 information.
 
 This project is initiated by the author of the [Python Record Linkage
-Toolkit](https://github.com/J535D165/recordlinkage) ⭐ 1,067 | 🐛 64 | 🌐 Python | 📅 2024-02-21 @J535D165. The aim is to
+Toolkit](https://github.com/J535D165/recordlinkage) ⭐ 1,066 | 🐛 64 | 🌐 Python | 📅 2024-02-21 @J535D165. The aim is to
 get a list and comparison of data matching software.
 
 This list is licensed under [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

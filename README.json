@@ -145,10 +145,10 @@
                 "language": "R",
                 "license": null,
                 "last_commit": "2026-02-28T16:31:09Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "kosukeimai",
                 "repo": "fastLink",
-                "stars": 294,
+                "stars": 295,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
@@ -166,10 +166,10 @@
                 "language": "R",
                 "license": null,
                 "last_commit": "2026-02-28T16:31:09Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "kosukeimai",
                 "repo": "fastLink",
-                "stars": 294,
+                "stars": 295,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
@@ -391,7 +391,7 @@
                 "open_issues": 64,
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1067,
+                "stars": 1066,
                 "topics": [
                   "data-matching",
                   "dedupe",
@@ -423,7 +423,7 @@
             "open_issues": 64,
             "owner": "J535D165",
             "repo": "recordlinkage",
-            "stars": 1067,
+            "stars": 1066,
             "topics": [
               "data-matching",
               "dedupe",
@@ -562,7 +562,7 @@
                 "open_issues": 221,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2584,
+                "stars": 2586,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -593,7 +593,7 @@
             "open_issues": 221,
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2584,
+            "stars": 2586,
             "topics": [
               "data-matching",
               "data-science",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T12:17:14.166Z",
+    "last_updated": "2026-11-16T13:09:56.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
