@@ -64,7 +64,7 @@
                 "open_issues": 93,
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4532,
+                "stars": 4531,
                 "topics": [
                   "clustering",
                   "datamade",
@@ -93,7 +93,7 @@
             "open_issues": 93,
             "owner": "dedupeio",
             "repo": "dedupe",
-            "stars": 4532,
+            "stars": 4531,
             "topics": [
               "clustering",
               "datamade",
@@ -391,7 +391,7 @@
                 "open_issues": 64,
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1066,
+                "stars": 1065,
                 "topics": [
                   "data-matching",
                   "dedupe",
@@ -423,7 +423,7 @@
             "open_issues": 64,
             "owner": "J535D165",
             "repo": "recordlinkage",
-            "stars": 1066,
+            "stars": 1065,
             "topics": [
               "data-matching",
               "dedupe",
@@ -626,7 +626,7 @@
             "open_issues": 118,
             "owner": "zinggAI",
             "repo": "zingg",
-            "stars": 1276,
+            "stars": 1275,
             "topics": [
               "cdp",
               "customer-data-platform",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T13:55:10.836Z",
+    "last_updated": "2026-11-20T13:37:40.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
@@ -669,7 +669,7 @@
       "open_issues": 9,
       "owner": "J535D165",
       "repo": "data-matching-software",
-      "stars": 407,
+      "stars": 406,
       "topics": [
         "awesome",
         "awesome-list",
