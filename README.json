@@ -148,7 +148,7 @@
                 "open_issues": 39,
                 "owner": "kosukeimai",
                 "repo": "fastLink",
-                "stars": 295,
+                "stars": 296,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
@@ -169,7 +169,7 @@
                 "open_issues": 39,
                 "owner": "kosukeimai",
                 "repo": "fastLink",
-                "stars": 295,
+                "stars": 296,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:03.738Z"
@@ -558,11 +558,11 @@
                 "id": 223420284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-11T16:54:43Z",
-                "open_issues": 221,
+                "last_commit": "2026-11-25T14:33:56Z",
+                "open_issues": 222,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2599,
+                "stars": 2603,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -589,11 +589,11 @@
             "id": 223420284,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T16:54:43Z",
-            "open_issues": 221,
+            "last_commit": "2026-11-25T14:33:56Z",
+            "open_issues": 222,
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2599,
+            "stars": 2603,
             "topics": [
               "data-matching",
               "data-science",
@@ -626,7 +626,7 @@
             "open_issues": 118,
             "owner": "zinggAI",
             "repo": "zingg",
-            "stars": 1276,
+            "stars": 1277,
             "topics": [
               "cdp",
               "customer-data-platform",
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T15:18:23.408Z",
+    "last_updated": "2026-11-25T14:58:53.571Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of free data matching and record linkage software. ",
